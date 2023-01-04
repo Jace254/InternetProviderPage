@@ -1,0 +1,15 @@
+{
+  "name": "internet-provider-page",
+  "version": "1.0.0",
+  "description": "internet provider page",
+  "main": "index.js",
+  "scripts": {
+    "style-init": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "JoashAgesa",
+  "license": "MIT",
+  "dependencies": {
+    "daisyui": "^2.46.1",
+    "tailwindcss": "^3.2.4"
+  }
+}
