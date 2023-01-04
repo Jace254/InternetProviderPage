@@ -12,7 +12,7 @@ A web page made in html and tailwindcss
     yarn install
 ```
 
-3. Initialize the styles from the html file.
+3. build the css styles
 
 ```
     yarn style-init
